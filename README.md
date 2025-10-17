@@ -1,6 +1,6 @@
 # Research Report Agent (Phase 1)
 
-A mobile-ready backend that fetches company news, summarizes with a hybrid LLM pipeline, and produces a 3–5 slide sales brief — all cached in Firestore. Now includes Google Slides generation, Gmail send, and Calendar scheduling.
+A mobile-ready backend that fetches company news, summarises with a hybrid LLM pipeline, and produces a 3–5 slide sales brief — all cached in Firestore. Now includes Google Slides generation, Gmail send, and Calendar scheduling.
 
 ## ✅ Current Status (Updated: 18 Oct 2025)
 
